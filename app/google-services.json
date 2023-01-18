@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "767388363064",
+    "project_id": "ejercicio-lista-de-la-co-d48bb",
+    "storage_bucket": "ejercicio-lista-de-la-co-d48bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767388363064:android:3fc715d362ee0edebe39cd",
+        "android_client_info": {
+          "package_name": "com.example.ejerciciofirebase_listadelacompra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767388363064-64ccadd6tla3qp1qdout7moefvimu1k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIwVN0z3QQvRLdr-MgkbHsu5Wm4cEWFxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767388363064-64ccadd6tla3qp1qdout7moefvimu1k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
